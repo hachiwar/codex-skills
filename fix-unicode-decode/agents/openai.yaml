@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unicode Decode Fixer"
+  short_description: "Diagnose and fix Unicode decoding and Chinese text issues"
+  default_prompt: "Use $fix-unicode-decode to diagnose this UnicodeDecodeError and repair the Chinese text handling safely."
