@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Document Style"
+  short_description: "Review formal Chinese writing and typography"
+  default_prompt: "Use $chinese-document-style to revise this Chinese document for formal academic style, typography, and consistency."
